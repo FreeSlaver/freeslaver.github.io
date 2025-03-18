@@ -1,7 +1,8 @@
 ---
 permalink: /search/
 layout: page
-title: "Search"
+
+title: "全站搜索"
 sitemap: false
 ---
 
