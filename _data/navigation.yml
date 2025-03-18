@@ -1,75 +1,95 @@
-- title: Start
+- title: 首页
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Java技术框架"
+  url: "#"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+    - title: "Java"
+      url: "/java/"
+    - title: "Spring"
+      url: "/spring/"
+    - title: "Spring Cloud"
+      url: "/spring-cloud/"
+    - title: "Redis"
+      url: "/redis/"
+    - title: "Kafka"
+      url: "/kafka/"
+    - title: "MySQL"
+      url: "/mysql/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "架构设计"
+  url: "#"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+    - title: "架构设计"
+      url: "/architecture-design/"
+    - title: "集群分布式"
+      url: "/distribute/"
+    - title: "程序系统设计"
+      url: "/program-system-design/"
+    - title: "DevOps"
+      url: "/ops/"
 
-- title: Documentation
-  url: "/documentation/"
+
+- title: "求职面试"
+  url: "#"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+    - title: "简历"
+      url: "/resume/"
+    - title: "面试"
+      url: "/interview/"
+    - title: "Java面试题面经"
+      url: "/interview-question-experience/"
+    - title: "职场"
+      url: "/career/"
 
-- title: Blog
-  url: "/blog/"
+- title: "前沿技术"
+  url: "/tech-edge/"
+  side: left
+
+
+#- title: "商业"
+#  url: "#"
+#  side: left
+#  dropdown:
+#    - title: "方法论"
+#      url: "/method/"
+#    - title: "搞钱"
+#      url: "/make-money/"
+#    - title: "产品"
+#      url: "/tao"
+#    - title: "流量推广"
+#      url: "/net-traffic/"
+#    - title: "侵权违法"
+#      url: "/law-tort/"
+
+- title: "创作"
+  url: "#"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+    - title: "写作"
+      url: "/essay/"
+    - title: "精华"
+      url: "/essence/"
+    - title: "语录"
+      url: "/quote.html"
+- title: "投资"
+  url: "https://gushenyi.com"
+  side: left
 
-- title: "Search"
+- title: "道德经"
+  url: "/tao/"
+  side: left
+
+- title: "归档"
+  url: "/archive/"
+  side: left
+
+- title: "搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right

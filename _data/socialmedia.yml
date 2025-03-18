@@ -1,44 +1,38 @@
-- name: GitHub
-  url: http://github.com/phlow
-  class: icon-github
-  title: Code und mehr...
 
-- name: YouTube
-  url: http://www.youtube.com/PhlowMedia
-  class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+
+- name: GitHub
+  url: http://github.com/songxin1990
+  class: icon-github
+  title: Code for fun
+
+- name: StackOverflow
+  url: https://stackoverflow.com/users/6708214/songxin
+  class: icon-stack-overflow
+  title: Ask me a Question
+
+- name: Zhihu
+  url: https://www.zhihu.com/people/zenhacker
+  class: icon-zhihu
+  title: 知乎
+
+- name: Linkedin
+  url: http://linkedin.com/songxin1990
+  class: icon-linkedin
+  title: look for a job
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/songxin1990
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "nothing more"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+- name: Google+
+  url: https://plus.google.com/110973279070546034423
+  class: icon-googleplus
+  title: "Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: http://www.facebook.com/profile.php?id=100018273099120
+  class: icon-facebook
+  title: "nothing more"
 
-# - name: Soundcloud
-#   url: http://soundcloud.com/
-#   class: icon-soundcloud
-#   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
-
-# - name: Pinterest
-#   url: http://www.pinterest.com/
-#   class: icon-pinterest
-#   title: ""
-
-# - name: Xing
-#   url: https://www.xing.com/profile/
-#   class: icon-xing
-#   title: Xing Profil
