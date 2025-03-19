@@ -2,41 +2,88 @@
   url: "/"
   side: left
 
+
+- title: "Java技术框架"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "Java"
+      url: "/java/"
+    - title: "Spring"
+      url: "/spring/"
+    - title: "Spring Cloud"
+      url: "/spring-cloud/"
+    - title: "Redis"
+      url: "/redis/"
+    - title: "Kafka"
+      url: "/kafka/"
+    - title: "MySQL"
+      url: "/mysql/"
+
+- title: "架构设计"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "架构设计"
+      url: "/architecture-design/"
+    - title: "集群分布式"
+      url: "/distribute/"
+    - title: "程序系统设计"
+      url: "/program-system-design/"
+    - title: "DevOps"
+      url: "/ops/"
+
+
+- title: "求职面试"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "简历"
+      url: "/resume/"
+    - title: "面试"
+      url: "/interview/"
+    - title: "Java面试题面经"
+      url: "/interview-question-experience/"
+    - title: "职场"
+      url: "/career/"
+
+- title: "前沿技术"
+  url: "/tech-edge/"
+  side: left
+
+
+#- title: "商业"
+#  url: "#"
+#  side: left
+#  dropdown:
+#    - title: "方法论"
+#      url: "/method/"
+#    - title: "搞钱"
+#      url: "/make-money/"
+#    - title: "产品"
+#      url: "/tao"
+#    - title: "流量推广"
+#      url: "/net-traffic/"
+#    - title: "侵权违法"
+#      url: "/law-tort/"
+
+- title: "创作"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "写作"
+      url: "/essay/"
+    - title: "精华"
+      url: "/essence/"
+    - title: "语录"
+      url: "/quote.html"
+- title: "投资"
+  url: "https://gushenyi.com"
+  side: left
+
 - title: "道德经"
-  url: "#"
+  url: "/tao/"
   side: left
-  dropdown:
-    - title: "以股入道"
-      url: "/architecture-design/"
-
-- title: "交易"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "股票"
-      url: "/architecture-design/"
-    - title: "期货"
-      url: "/architecture-design/"
-    - title: "交易系统"
-      url: "/architecture-design/"
-    - title: "每日复盘"
-      url: "/architecture-design/"
-    - title: "谷神一教你炒股票"
-      url: "/architecture-design/"
-
-- title: "编程"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "以股入道"
-      url: "/architecture-design/"
-
-- title: "写作"
-  url: "#"
-  side: left
-  dropdown:
-    - title: "以股入道"
-      url: "/architecture-design/"
 
 - title: "归档"
   url: "/blog/archive/"
