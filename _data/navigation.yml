@@ -2,6 +2,17 @@
   url: "/"
   side: left
 
+- title: "道"
+  url: "/tao/"
+  side: left
+  dropdown:
+    - title: "谷神一解道德经"
+      url: "/tao/"
+    - title: "道德经"
+      url: "/tao-te-ching/"
+    - title: "佛"
+      url: "/buddha/"
+
 
 - title: "Java技术框架"
   url: "#"
@@ -81,13 +92,16 @@
   url: "https://gushenyi.com"
   side: left
 
-- title: "道德经"
-  url: "/tao/"
-  side: left
+
 
 - title: "归档"
   url: "/blog/archive/"
   side: left
+  dropdown:
+    - title: "标签"
+      url: "/tags/"
+    - title: "trash"
+      url: "/trash/"
 
 - title: "搜索"
   url: "/search/"

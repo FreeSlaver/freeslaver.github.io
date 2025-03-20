@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 为什么学了那么久英语还是无法英文对话？
-category: redis
-categoryStr: redis
-tags: [redis,线上问题]
+category: learn
+categoryStr: 学习方法
+tags: [learn,english]
 keywords:
 description:
 ---
