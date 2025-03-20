@@ -2,7 +2,7 @@
 layout: page
 
 show_meta: false
-title: "禅"
+title: "佛"
 subheadline: ""
 header:
    image_fullwidth: "header/buddha.jpg"

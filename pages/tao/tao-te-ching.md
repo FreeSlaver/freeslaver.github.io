@@ -6,7 +6,7 @@ title: "道德经"
 subheadline: ""
 header:
    image_fullwidth: "header/tao.png"
-permalink: "/tao/"
+permalink: "/tao-te-ching/"
 ---
 <ul>
     {% for post in site.categories.tao-te-ching %}

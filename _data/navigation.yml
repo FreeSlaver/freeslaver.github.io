@@ -6,13 +6,12 @@
   url: "/tao/"
   side: left
   dropdown:
-    - title: "谷神一解道德经"
-      url: "/tao/"
-    - title: "道德经"
+    - title: "道"
       url: "/tao-te-ching/"
     - title: "佛"
       url: "/buddha/"
-
+    - title: "谷神一解道德经"
+      url: "/tao/"
 
 - title: "Java技术框架"
   url: "#"
