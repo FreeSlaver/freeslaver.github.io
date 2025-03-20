@@ -10,7 +10,7 @@
       url: "/tao-te-ching/"
     - title: "佛"
       url: "/buddha/"
-    - title: "谷神一解道德经"
+    - title: "以股入道"
       url: "/tao/"
 
 - title: "Java技术框架"
@@ -57,10 +57,6 @@
     - title: "职场"
       url: "/career/"
 
-- title: "前沿技术"
-  url: "/tech-edge/"
-  side: left
-
 
 #- title: "商业"
 #  url: "#"
@@ -89,9 +85,19 @@
       url: "/quote.html"
     - title: "读后感"
       url: "/writing/"
-- title: "投资"
-  url: "https://gushenyi.com"
+
+- title: "人生"
+  url: "#"
   side: left
+  dropdown:
+    - title: "中国父母"
+      url: "/dog-cunt-parent/"
+    - title: "心理学"
+      url: "/psychology"
+    - title: "移民"
+      url: "/migrate/"
+    - title: "读后感"
+      url: "/writing/"
 
 
 

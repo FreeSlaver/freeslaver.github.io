@@ -1,6 +1,5 @@
 ---
 layout: page
-
 show_meta: false
 title: "旅行"
 subheadline: ""

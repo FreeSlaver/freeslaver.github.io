@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  糖尿病成因，治疗
-category: life
+category: health
 tags: [health]
 keywords:
 description:

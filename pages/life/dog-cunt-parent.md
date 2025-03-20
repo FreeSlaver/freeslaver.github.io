@@ -1,15 +1,14 @@
 ---
 layout: page
-
 show_meta: false
-title: "以股入道，谷神一解道德经"
+title: "中国父母"
 subheadline: ""
 header:
-   image_fullwidth: "header/tao.png"
-permalink: "/tao/"
+image_fullwidth: "header_unsplash_5.jpg"
+permalink: "/dog-cunt-parent/"
 ---
 <ul>
-    {% for post in site.categories.tao %}
+    {% for post in site.categories.dog-cunt-parent %}
     <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
