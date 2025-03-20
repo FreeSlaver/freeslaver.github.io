@@ -87,6 +87,8 @@
       url: "/essence/"
     - title: "语录"
       url: "/quote.html"
+    - title: "读后感"
+      url: "/writing/"
 - title: "投资"
   url: "https://gushenyi.com"
   side: left
