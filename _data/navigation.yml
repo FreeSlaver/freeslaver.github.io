@@ -8,8 +8,10 @@
   dropdown:
     - title: "道德经"
       url: "/tao-te-ching/"
-    - title: "以股入道-无无名解道德经"
+    - title: "以股入道-谷神一解道德经"
       url: "/stock-explain-tao/"
+    - title: "修行法门"
+      url: "/tao-method/"
 
 - title: "股票"
   url: "#"
@@ -17,7 +19,7 @@
   dropdown:
     - title: "股票交易日记"
       url: "/stock-diary/"
-    - title: "无无名的炒股教程"
+    - title: "谷神一的炒股教程"
       url: "/stock-course/"
     - title: "德州扑克"
       url: "/porker/"
@@ -37,6 +39,64 @@
     - title: "古典学"
       url: "/classics/"
 
+- title: "编程"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "Java基础与核心"
+      url: "/java-core/"
+    - title: "算法与数据结构"
+      url: "/algorithm-data-structure/"
+    - title: "集成框架"
+      url: "/framework/"
+    - title: "中间件"
+      url: "/middleware/"
+    - title: "MySQL"
+      url: "/mysql/"
+    - title: "性能优化"
+      url: "/performance-optimization/"
+    - title: "问题排查与解决"
+      url: "/troubleshooting-resolution/"
+    - title: "项目经验与最佳实验"
+      url: "/project-experience-best-practice/"
+    - title: "程序架构设计"
+      url: "/architecture-design/"
+    - title: "DevOps"
+      url: "/dev-ops/"
+
+- title: "职场"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "职场"
+      url: "/career/"
+    - title: "面试"
+      url: "/interview/"
+    - title: "简历"
+      url: "/resume/"
+
+
+- title: "人生"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "规划"
+      url: "/plan/"
+    - title: "赚钱"
+      url: "/make-money/"
+    - title: "问题"
+      url: "/problems/"
+    - title: "健康"
+      url: "/health/"
+
+- title: "旅行"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "旅行"
+      url: "/travel/"
+    - title: "摄影"
+      url: "/photography/"
 
 - title: "归档"
   url: "/blog/archive/"
