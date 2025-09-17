@@ -1,75 +1,51 @@
-- title: Start
+- title: 首页
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: "道"
+  url: "#"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+    - title: "道德经"
+      url: "/tao-te-ching/"
+    - title: "以股入道-无无名解道德经"
+      url: "/stock-explain-tao/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "股票"
+  url: "#"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+    - title: "股票交易日记"
+      url: "/stock-diary/"
+    - title: "无无名的炒股教程"
+      url: "/stock-course/"
+    - title: "德州扑克"
+      url: "/porker/"
+    - title: "炒股感悟"
+      url: "/stock/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "创作"
+  url: "#"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+    - title: "随笔"
+      url: "/essay/"
+    - title: "小说"
+      url: "/story/"
+    - title: "唐诗宋词"
+      url: "/poetry/"
+    - title: "古典学"
+      url: "/classics/"
 
-- title: Blog
-  url: "/blog/"
+
+- title: "归档"
+  url: "/blog/archive/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+    - title: "标签"
+      url: "/tags/"
 
-- title: "Search"
+- title: "搜索"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
