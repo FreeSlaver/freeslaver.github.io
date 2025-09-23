@@ -2,9 +2,9 @@
 layout: page
 
 title: 浓汤野人：交易中的机会-转载
-category: future
-categoryStr: 期货
-tags: 转载
+category: reprint
+categoryStr: 转载
+tags: 期货
 keywords: 
 description: 
 ---

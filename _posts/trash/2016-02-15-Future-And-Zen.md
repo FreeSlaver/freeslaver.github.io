@@ -2,14 +2,14 @@
 layout: page
 
 title: 期货与禅
-category: future
-categoryStr: 期货
+category: trash
+categoryStr: 垃圾桶
 tags: 
 keywords: 
 description: 
 ---
 
-**此文为转载，写的太好了，我对格式进行美化了下**   
+
 ### 入市之初
 大多数投资者来到期货市场之初希望能尽快的找到百战百胜的绝招，来实现快速致富。**事实上真的期货交易是知识、技术、经验、境界、人生哲学的累积。**  
 **俗话说工夫在诗外。**    

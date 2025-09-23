@@ -2,8 +2,8 @@
 layout: page
 
 title: 20140728深天马A
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

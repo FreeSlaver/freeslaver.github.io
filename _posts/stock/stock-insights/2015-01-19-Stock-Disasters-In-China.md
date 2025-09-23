@@ -2,8 +2,8 @@
 layout: page
 
 title: 2015年1月19日中国股灾
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

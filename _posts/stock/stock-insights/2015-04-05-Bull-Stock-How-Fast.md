@@ -2,8 +2,8 @@
 layout: page
 
 title: 牛股：什么样的股票涨的快
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

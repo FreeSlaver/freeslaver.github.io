@@ -1,8 +1,7 @@
-
 ---
 layout: page
 title: 穷困的人生，如何破局，看看DeepSeek怎么回答？
-category: me
+category: problems
 tags:   
 keywords:
 description:

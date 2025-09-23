@@ -2,8 +2,8 @@
 layout: page
 
 title: 十大交易员“圣经”
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: stock book
 keywords: 交易 圣经 stock
 description: 

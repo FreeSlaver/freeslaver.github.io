@@ -2,8 +2,8 @@
 layout: page
 
 title: 投机
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

@@ -2,8 +2,8 @@
 layout: page
 
 title: 一些小技巧
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

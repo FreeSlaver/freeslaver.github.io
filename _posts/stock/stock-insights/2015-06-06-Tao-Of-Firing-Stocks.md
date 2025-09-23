@@ -2,8 +2,8 @@
 layout: page
 
 title: 炒股之道
-category: stock
-categoryStr: 股票
+category: stock-insights
+categoryStr: 炒股感悟
 tags: 
 keywords: 
 description: 

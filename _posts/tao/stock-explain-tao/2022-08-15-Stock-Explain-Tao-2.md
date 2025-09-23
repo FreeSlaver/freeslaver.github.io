@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  股解道德经第二章--
+title:  谷神一解道德经第二章-有无相生
 category: stock-explain-tao
 tags: [股解道德经]
 keywords: tao
 description:
-published:  true
----
+published:  false
 
+---
 
 ## 原文
 天下皆知美之为美，恶矣，皆知善之为善，斯不善矣。

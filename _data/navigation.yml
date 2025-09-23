@@ -25,6 +25,20 @@
       url: "/porker/"
     - title: "炒股感悟"
       url: "/stock/"
+    - title: "转载"
+      url: "/reprint/"
+
+- title: "宏观"
+  url: "#"
+  side: left
+  dropdown:
+    - title: "政治"
+      url: "/politics/"
+    - title: "经济"
+      url: "/economy/"
+    - title: "事件"
+      url: "/economy/"
+
 
 - title: "创作"
   url: "#"
@@ -80,12 +94,12 @@
   url: "#"
   side: left
   dropdown:
+    - title: "问题"
+      url: "/problems/"
     - title: "规划"
       url: "/plan/"
     - title: "赚钱"
       url: "/make-money/"
-    - title: "问题"
-      url: "/problems/"
     - title: "健康"
       url: "/health/"
 
@@ -104,6 +118,10 @@
   dropdown:
     - title: "标签"
       url: "/tags/"
+    - title: "草稿箱"
+      url: "/draft/"
+    - title: "垃圾桶"
+      url: "/trash/"
 
 - title: "搜索"
   url: "/search/"
