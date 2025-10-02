@@ -3,7 +3,7 @@ layout: page
 
 show_meta: false
 title: "德州扑克"
-subheadline: "上帝也爱赌博"
+subheadline: "上帝也爱摇色子"
 header:
    image_fullwidth: "header/porker.png"
 permalink: "/porker/"
